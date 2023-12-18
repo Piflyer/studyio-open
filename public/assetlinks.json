@@ -1,0 +1,6 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.thisistimnguyen.studyio.twa",
+                 "sha256_cert_fingerprints": ["A1:2A:DE:C8:B0:E1:E3:CB:1F:72:6B:E3:6F:93:48:65:09:0C:D6:5E:BB:32:27:B0:FA:09:C7:9B:10:EF:BD:5E"] }
+  }
+]
