@@ -11,7 +11,7 @@ import {MdRemoveCircleOutline, MdOutlineClose, } from "react-icons/md";
 const edjsHTML = require("editorjs-html");
 const { initializeAppCheck, ReCaptchaV3Provider } = require("firebase/app-check");
 const appCheck = initializeAppCheck(app, {
-  provider: new ReCaptchaV3Provider('6LfWhcohAAAAAHU68C_sXVl2K5DPrhks7myqqkc8'),
+  provider: new ReCaptchaV3Provider(''),
 
   // Optional argument. If true, the SDK automatically refreshes App Check
   // tokens as needed.
